@@ -1,0 +1,9 @@
+Index: hotflix2.txt
+===================================================================
+diff --git a/hotflix2.txt b/hotflix2.txt
+deleted file mode 100644
+--- a/hotflix2.txt	(revision 5eb742a7af6d006904ecd57ee2e083b80b937d42)
++++ /dev/null	(revision 5eb742a7af6d006904ecd57ee2e083b80b937d42)
+@@ -1,1 +0,0 @@
+-this is for hotflix2 for stash
+\ No newline at end of file
